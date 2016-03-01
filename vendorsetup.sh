@@ -1,0 +1,2 @@
+add_lunch_combo omni_noblelte-eng
+add_lunch_combo omni_noblelte-userdebug
