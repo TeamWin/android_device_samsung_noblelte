@@ -10,5 +10,4 @@ $(call inherit-product, vendor/omni/config/common.mk)
 PRODUCT_DEVICE := noblelte
 PRODUCT_NAME := omni_noblelte
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-N920C
 PRODUCT_MANUFACTURER := samsung
